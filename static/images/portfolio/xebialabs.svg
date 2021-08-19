@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="43.3492mm" height="43.3492mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4334.92 4334.92"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#DBDADA;stroke-width:84.67;stroke-miterlimit:10}
+    .str2 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil0 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0.01" width="4334.93" height="4334.94"/>
+  <g id="_2965218402176">
+   <path class="fil1 str0" d="M1727.5 954.65l1600.94 0c152.91,0 277.31,124.25 277.31,276.95l0 2217.86 -2314.74 0c-152.91,0 -277.31,-124.22 -277.31,-276.95l0 -2077.56 82.35 82.25c22.09,22.06 57.9,22.06 80,0.02l105.76 -105.55c22.1,-22.06 22.1,-57.87 0.01,-79.94l-340.34 -339.91c-11.6,-11.59 -26.04,-18.59 -41.07,-21.06l-24.58 0c-15.04,2.46 -29.47,9.49 -41.06,21.06l-344.07 343.63c-11.04,11.04 -16.57,25.49 -16.57,39.95 0,14.46 5.53,28.93 16.57,39.96l105.69 105.55c22.09,22.06 57.92,22.06 80.01,0l82.24 -82.12 0 2073.72c0,293.15 238.83,531.65 532.37,531.65l2569.78 0 0 -2472.56c0,-293.12 -238.83,-531.66 -532.35,-531.66l-1856 0.08"/>
+   <path class="fil1 str0" d="M1675.18 2826.6l236.15 -367.04 216.1 307.65m349.07 -80.72l-369.36 -526.06 357.92 -548.61m-330.51 -33.5l-818.87 1248.28 359.5 0"/>
+   <path class="fil1 str0" d="M3285.84 2767.2l-167.74 -238.55 -313.8 0 0 -950.33 -669.75 0m344.81 0l0 1178.91"/>
+   <polyline class="fil1 str1" points="1333.69,1636.86 1652.8,2091.3 1847.93,1791.24 1739.51,1636.86 "/>
+   <ellipse class="fil0 str2" cx="3325.95" cy="2826.6" rx="63.5" ry="63.42"/>
+   <ellipse class="fil0 str2" cx="2159.1" cy="2826.6" rx="63.5" ry="63.42"/>
+   <ellipse class="fil0 str2" cx="2479.36" cy="2826.6" rx="63.5" ry="63.42"/>
+   <ellipse class="fil0 str2" cx="1301.95" cy="1576.62" rx="63.5" ry="63.42"/>
+   <ellipse class="fil0 str2" cx="1707.78" cy="1576.62" rx="63.5" ry="63.42"/>
+   <ellipse class="fil0 str2" cx="1396.13" cy="700.02" rx="63.5" ry="63.41"/>
+   <ellipse class="fil0 str2" cx="1651.2" cy="954.65" rx="63.5" ry="63.42"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,5 @@
+# Hugo default output directory
+public/
+
+# Hugo local dev server resources
+resources/

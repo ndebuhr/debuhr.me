@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="43.3492mm" height="43.3492mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4334.92 4334.92"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0.01" width="4334.93" height="4334.94"/>
+  <g id="_2855275087216">
+   <rect class="fil0 str0" x="474.13" y="474.13" width="3386.67" height="3386.67"/>
+   <g>
+    <g>
+     <ellipse class="fil0 str0" cx="2337.46" cy="3436.75" rx="67.62" ry="68.04"/>
+     <ellipse class="fil0 str0" cx="3128.3" cy="2012.79" rx="67.62" ry="68.04"/>
+     <polyline class="fil0 str0" points="3128.3,1944.76 3128.3,1430.16 2337.46,2099.16 2337.46,3368.71 "/>
+    </g>
+    <ellipse class="fil0 str0" cx="3309.36" cy="1731.33" rx="67.62" ry="68.04"/>
+    <g>
+     <ellipse class="fil0 str0" cx="1997.46" cy="3436.75" rx="67.62" ry="68.04"/>
+     <ellipse class="fil0 str0" cx="1206.62" cy="2012.79" rx="67.62" ry="68.04"/>
+     <polyline class="fil0 str0" points="1206.62,1944.76 1206.62,1430.16 1997.46,2099.16 1997.46,3368.71 "/>
+    </g>
+    <ellipse class="fil0 str0" cx="1025.56" cy="1731.33" rx="67.62" ry="68.04"/>
+    <path class="fil0 str0" d="M1025.56 1663.29l0 -833.15 1141.9 964.05 -170 -142.22m1311.9 11.32l0 -833.15 -1141.9 964.05 170 -142.22"/>
+   </g>
+  </g>
+ </g>
+</svg>

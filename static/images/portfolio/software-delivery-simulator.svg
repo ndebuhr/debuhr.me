@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="43.3492mm" height="43.3492mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4334.92 4334.92"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str2 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:#DBDADA;stroke-width:84.67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="0.01" y="-0.01" width="4334.93" height="4334.93"/>
+  <g id="_2965374752320">
+   <path class="fil0 str0" d="M1294.95 1058.32c2315.14,0.85 2314.7,2219.11 0,2218.25l0 -2218.25z"/>
+   <line class="fil0 str1" x1="691.3" y1="2959.68" x2="1294.95" y2= "2959.68" />
+   <line class="fil0 str1" x1="2569.83" y1="1375.22" x2="3643.64" y2= "1375.22" />
+   <polyline class="fil0 str0" points="1294.96,1375.21 581.55,1375.21 581.55,2167.45 1294.96,2167.45 "/>
+   <polyline class="fil0 str0" points="2554.69,2959.68 3744.55,2959.68 3744.55,2167.45 3031.14,2167.45 "/>
+   <ellipse class="fil0 str2" cx="3752.22" cy="1375.21" rx="108.58" ry="108.52"/>
+   <ellipse class="fil0 str2" cx="582.72" cy="2959.49" rx="108.58" ry="108.52"/>
+  </g>
+ </g>
+</svg>

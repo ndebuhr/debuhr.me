@@ -1,0 +1,18 @@
+<div {{ with .Get "class" }}class="{{.}}"{{ end }}>
+    {{ with .Get "link" }}<a href="{{.}}" target="_blank">{{ end }}
+    <figure>
+        <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+        {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+        <figcaption>{{ with .Get "title" }}
+            <h4>{{.}}</h4>{{ end }}
+            {{ if or (.Get "caption") (.Get "attr")}}<p>
+            {{ .Get "caption" }}
+            {{ with .Get "attrlink"}}<a href="{{.}}" target="_blank"> {{ end }}
+                {{ .Get "attr" }}
+            {{ if .Get "attrlink"}}</a> {{ end }}
+            </p> {{ end }}
+        </figcaption>
+        {{ end }}
+    </figure>
+    {{ if .Get "link"}}</a>{{ end }}
+</div>

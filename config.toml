@@ -1,0 +1,84 @@
+languageCode = "en-us"
+defaultcontentlanguage = "en"
+title = "Neal DeBuhr"
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+[params]
+
+    author = "Neal DeBuhr"
+    info = "Sociotechnical Systems Engineer"
+    description = "Neal's Personal Website"
+    keywords = "blog,developer,personal,devops,systems,software,saas,xebialabs"
+    avatarurl = "images/ndebuhr.png"
+
+    favicon_32 = "/images/favicon-32x32.png"
+    favicon_16 = "/images/favicon-16x16.png"
+
+    footercontent = "<span style=\"font-size:60%\">&copy;</span> 2019-2021&nbsp;&nbsp;&middot;&nbsp;&nbsp;Powered by <a href=\"/powered-by\">these technologies</a>"
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    colorscheme = "dark"
+    hideColorSchemeToggle = true
+
+    math = true
+
+    # Custom CSS
+    customCSS = ["css/custom.css"]
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/ndebuhr/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 4
+    url = "https://www.linkedin.com/in/nealdebuhr/"
+# [[params.social]]
+#     name = "Blog"
+#     icon = "fa fa-book fa-2x"
+#     weight = 4
+#     url = "/posts/"
+
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "README"
+            weight = 1
+            url  = "/readme/"
+
+            [[languages.en.menu.main]]
+            name = "PORTFOLIO"
+            weight = 2
+            url = "/portfolio/"
+
+            # [[languages.en.menu.main]]
+            # name = "BLOG"
+            # weight = 3
+            # url = "/posts/"

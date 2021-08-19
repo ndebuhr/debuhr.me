@@ -1,0 +1,6 @@
+{{ if eq (.Get "type") "start" }}
+<div {{ with .Get "class" }}class="{{.}}"{{ end }}>
+{{ end }}
+{{ if eq (.Get "type") "end" }}
+</div>
+{{ end }}
