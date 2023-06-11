@@ -26,6 +26,7 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.109.0'
+        extended: true
 
     # Build
     - name: Hugo Build
