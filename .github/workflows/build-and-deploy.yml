@@ -1,4 +1,4 @@
-name: Cloudflare Workers
+name: Build and Deploy
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -32,17 +32,16 @@ jobs:
     - name: Hugo Build
       run: hugo --minify
 
-    # Setup npm
-    - name: Setup NodeJS
-      uses: actions/setup-node@v1
+    - id: 'auth'
+      uses: 'google-github-actions/auth@v2'
       with:
-        node-version: '12'
+        project_id: ${{ secrets.GCP_PROJECT_ID }}
+        workload_identity_provider: 'projects/${{ secrets.GCP_PROJECT_NUM }}/locations/global/workloadIdentityPools/github/providers/debuhr-me'
+
+    - name: 'Set up Cloud SDK'
+      uses: 'google-github-actions/setup-gcloud@v2'
 
     # Deploy
-    - name: Deploy via CloudFlare Workers
-      env:
-        CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+    - name: Deploy to Google Cloud Storage
       run: |
-        npm i @cloudflare/wrangler -g
-        wrangler publish
+        gsutil -m cp -r public/* gs://debuhr.me/
