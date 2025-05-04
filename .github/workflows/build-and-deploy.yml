@@ -48,4 +48,5 @@ jobs:
     # Deploy
     - name: Deploy to Google Cloud Storage
       run: |
-        gsutil -m cp -r public/* gs://debuhr.me/
+        gcloud storage rm -r gs://debuhr.me/*
+        gcloud storage cp -r public/* gs://debuhr.me/
