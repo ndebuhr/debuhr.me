@@ -12,7 +12,7 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
 
     author = "Neal DeBuhr"
-    info = "Sociotechnical Systems Engineer"
+    info = "HPC, Simulation, and Web3"
     description = "Neal's Personal Website"
     keywords = "blog,developer,personal,devops,systems,software,saas,xebialabs"
     avatarurl = "images/ndebuhr.png"
